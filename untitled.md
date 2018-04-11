@@ -1,4 +1,8 @@
-# Untitled
+---
+description: Connexion à la solution
+---
+
+# Première connexion
 
 Dans l'architecture Synaptix, l'authentification est prise en charge par un composant appelé KeyCloak.
 
