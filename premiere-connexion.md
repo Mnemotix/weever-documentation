@@ -1,23 +1,23 @@
-# Première connexion
+---
+description: Weever archivage augmentée de ressources digitales
+---
 
-## Getting Super Powers
+# Présentation
 
-Becoming a super hero is a fairly straight forward process:
+## Sommaire
+
+Nous présentons ci-après les différentes parties du manuel d'utilisation de Weever : 
+
+1. Première connexion
+2. prise en main
+
+
 
 ```
 $ give me super-powers
 ```
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ceci est un test
 {% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
 
