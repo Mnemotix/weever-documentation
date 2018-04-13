@@ -2,6 +2,7 @@
 
 * [Accueil](README.md)
 * [Présentation](presentation/README.md)
-  * [Accueil Weever](presentation/accueil-weever.md)
-* [Première connexion](connexion.md)
+  * [Première connexion](presentation/connexion.md)
+  * [Accueil Weever](presentation/accueil-weever/README.md)
+    * [Page projet](presentation/accueil-weever/page-projet.md)
 

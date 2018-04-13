@@ -14,5 +14,5 @@ La mosaïque des projets s'ouvre automatiquement sur tous les projets auxquels v
 
 Enfin, le moteur de recherche vous permet une première navigation par mot-clé dans toutes les ressources du site.
 
-![](../.gitbook/assets/weeveraccueil.PNG)
+![](../../.gitbook/assets/weeveraccueil.PNG)
 
