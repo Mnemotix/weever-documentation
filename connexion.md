@@ -12,3 +12,9 @@ Il s'agit d'un service capable de se connecter à différentes sources de donné
 
 Pour se créer un compte, il faut suivre la procédure suivante :
 
+1\) Créez un compte en cliquant sur "Register" : 
+
+![](.gitbook/assets/firstregister.PNG)
+
+2\)  Ensuite, une fois le compte créé, ce dernier sera le même pour toutes les applications de Mnémotix
+
