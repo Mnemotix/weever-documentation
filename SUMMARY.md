@@ -4,5 +4,6 @@
 * [Présentation](presentation/README.md)
   * [Première connexion](presentation/connexion.md)
   * [Accueil Weever](presentation/accueil-weever/README.md)
-    * [Page projet](presentation/accueil-weever/page-projet.md)
+    * [Page projet](presentation/accueil-weever/page-projet/README.md)
+      * [Ajouter un événement](presentation/accueil-weever/page-projet/ajouter-un-evenement.md)
 

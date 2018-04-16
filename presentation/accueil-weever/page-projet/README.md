@@ -10,5 +10,5 @@ Ces événements peuvent être de diverses formes, un événement réel type ré
 
 Ces** événements non datés** \(typiquement un événement régulier de curation par ex\) se trouvent classés en haut de la timeline. Pour les** événements datés**, ils se positionnent anté-chronologiquement sur la timeline.
 
-![](../../.gitbook/assets/weeverprojet.PNG)
+![](../../../.gitbook/assets/weeverprojet.PNG)
 
