@@ -1,7 +1,3 @@
----
-description: Weever archivage augmentée de ressources digitales
----
-
 # Présentation
 
 ## Sommaire

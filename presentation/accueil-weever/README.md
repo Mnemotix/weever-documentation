@@ -1,7 +1,3 @@
----
-description: Page d'accueil des projets
----
-
 # Accueil Weever
 
 Pour accéder aux fonctionnalités de Weever, cliquez sur le Menu latéral en haut à gauche.

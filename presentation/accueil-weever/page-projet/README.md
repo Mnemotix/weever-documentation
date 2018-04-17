@@ -1,7 +1,3 @@
----
-description: Page d'un projet
----
-
 # Page projet
 
 La page d'accueil d'un projet se présente principalement sous la forme d'une timeline, qui regroupe sur une ligne de temps des événements liés au projet. 
