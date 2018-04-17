@@ -6,4 +6,5 @@
   * [Accueil Weever](presentation/accueil-weever/README.md)
     * [Page projet](presentation/accueil-weever/page-projet/README.md)
       * [Ajouter un événement](presentation/accueil-weever/page-projet/ajouter-un-evenement.md)
+      * [Paramètres d'un projet](presentation/accueil-weever/page-projet/parametres-dun-projet.md)
 
