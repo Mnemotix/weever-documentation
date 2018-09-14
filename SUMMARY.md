@@ -6,6 +6,7 @@
   * [Accueil Weever](presentation/accueil-weever/README.md)
     * [Ajouter un nouveau projet](presentation/accueil-weever/ajouter-un-nouveau-projet.md)
     * [Page projet](presentation/accueil-weever/page-projet/README.md)
+      * [La timeline horizontale](presentation/accueil-weever/page-projet/la-ligne-de-temps-de-navigation.md)
       * [Ajouter un événement](presentation/accueil-weever/page-projet/new.md)
       * [Fenêtre d'un événement](presentation/accueil-weever/page-projet/ajouter-un-evenement.md)
       * [Paramètres d'un projet](presentation/accueil-weever/page-projet/parametres-dun-projet.md)
