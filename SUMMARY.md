@@ -13,4 +13,5 @@
       * [Le menu d'un projet](presentation/accueil-weever/page-projet/le-menu-dun-projet.md)
       * [Paramètres d'un projet](presentation/accueil-weever/page-projet/parametres-dun-projet.md)
     * [Page du groupe projet](presentation/accueil-weever/page-du-groupe-projet.md)
+* [Premiers pas dans Weever](premiers-pas-dans-weever.md)
 
