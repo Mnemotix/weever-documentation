@@ -9,6 +9,6 @@
       * [La timeline horizontale](presentation/accueil-weever/page-projet/la-ligne-de-temps-de-navigation.md)
       * [Ajouter un événement](presentation/accueil-weever/page-projet/new.md)
       * [Fenêtre d'un événement](presentation/accueil-weever/page-projet/ajouter-un-evenement.md)
-      * [Le Menu d'un projet](presentation/accueil-weever/page-projet/le-menu-dun-projet/README.md)
-        * [Paramètres d'un projet](presentation/accueil-weever/page-projet/le-menu-dun-projet/parametres-dun-projet.md)
+      * [Le menu d'un projet](presentation/accueil-weever/page-projet/le-menu-dun-projet.md)
+      * [Paramètres d'un projet](presentation/accueil-weever/page-projet/parametres-dun-projet.md)
 
