@@ -2,7 +2,7 @@
 
  Pour chaque projet créé, un groupe Equipe du projet se crée automatiquement, il est ensuite possible de personnaliser les champs de description de ce groupe.
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 Pour accéder à cette page, plusieurs possibilités : 
 

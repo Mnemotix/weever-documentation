@@ -4,6 +4,7 @@
 * [Présentation](presentation/README.md)
   * [Première connexion](presentation/premiere-connexion.md)
   * [Accueil Weever](presentation/accueil-weever/README.md)
+    * [Page Mon profil](presentation/accueil-weever/page-mon-profil.md)
     * [Ajouter un nouveau projet](presentation/accueil-weever/ajouter-un-nouveau-projet.md)
     * [Page projet](presentation/accueil-weever/page-projet/README.md)
       * [La timeline horizontale](presentation/accueil-weever/page-projet/la-ligne-de-temps-de-navigation.md)
