@@ -2,7 +2,7 @@
 
 Suivant les droits utilisateurs qui vous ont été octroyés, vous avez la possibilité de créer un projet. Vous devez voir un icône Plus sur lequel il faut cliquer pour créer un nouveau projet.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 {% hint style="info" %}
 Il est aussi possible de passer par le menu en haut à gauche de l'écran \(voir le lien Actions : Nouveau projet\)

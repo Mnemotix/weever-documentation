@@ -11,4 +11,5 @@
       * [Fenêtre d'un événement](presentation/accueil-weever/page-projet/ajouter-un-evenement.md)
       * [Le menu d'un projet](presentation/accueil-weever/page-projet/le-menu-dun-projet.md)
       * [Paramètres d'un projet](presentation/accueil-weever/page-projet/parametres-dun-projet.md)
+    * [Page du groupe projet](presentation/accueil-weever/page-du-groupe-projet.md)
 
