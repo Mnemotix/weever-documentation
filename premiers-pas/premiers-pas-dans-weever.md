@@ -28,23 +28,37 @@ Avant toute interaction sur la plateforme Weever, il est important de renseigner
 
 ## Page d'accueil de Weever
 
-Pour accéder aux fonctionnalités de Weever, cliquez sur le Menu latéral en haut à gauche.
+### Le menu du haut
+
+Pour accéder aux fonctionnalités de Weever, cliquez sur le Menu latéral en haut à gauche. Il se plie et se déplie par simple clic de souris sur le menu. Il propose un accès direct à toutes les fonctionnalités de Weever, que l'on retrouve aussi en naviguant dans l'interface.
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+{% hint style="info" %}
+Ce menu est plus ou moins riche en fonction des droits utilisateurs \(possibilité de créer un nouveau projet, un nouveau contact, un nouvel utilisateur ou un nouveau groupe\)
+{% endhint %}
 
 L'icône "cloche" vous notifie de toute nouvelle action sur le site \(téléchargement de nouvelles ressources, suivi d'activité etc..\)
 
-Vous pouvez à tout instant avoir accès et modifier votre profil.
+Vous pouvez à tout instant avoir accès et modifier votre profil \(voir le § Page Mon profil\).
+
+### La page centrale
 
 La mosaïque des projets s'ouvre automatiquement sur tous les projets auxquels vous participez \(les vôtres et ceux qui vous ont accepté comme membre\). Vous voyez également les dernières contributions des membres de la plateforme.
 
-Enfin, le moteur de recherche vous permet une première navigation par mot-clé dans toutes les ressources du site.
+Enfin, le moteur de recherche vous permet une première navigation par mot-clé dans toutes les ressources du site \(**voir le chapitre Naviguer dans Weever**\).
 
 ![](../.gitbook/assets/weeveraccueil.PNG)
+
+{% hint style="info" %}
+**L'activité de l'équipe** présente les dernières actions de la communauté sur la plateforme. Il est possible de cliquer sur les éléments cliquables pour ouvrir directement les éléments nouveaux.
+{% endhint %}
 
 ## Ajouter un nouveau projet
 
 Suivant les droits utilisateurs qui vous ont été octroyés, vous avez la possibilité de créer un projet. Vous devez voir un icône Plus sur lequel il faut cliquer pour créer un nouveau projet.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 {% hint style="info" %}
 Il est aussi possible de passer par le menu en haut à gauche de l'écran \(voir le lien Actions : Nouveau projet\)
@@ -62,23 +76,21 @@ La présentation en timeline a été retenue comme une des meilleures fonctionna
 
 ![](../.gitbook/assets/weeverprojet.PNG)
 
-### La timeline horizontale
+### Les timelines d'un projet
 
-La page projet présente deux lignes de temps, l'une verticale, qui se parcours en scrollant avec la souris \(comme dans les principaux réseaux sociaux comme Facebook ou Twitter\), l'autre horizontale.
+La page projet présente deux lignes de temps, l'une verticale, qui se parcours en scrollant avec la souris \(comme dans les principaux réseaux sociaux comme Facebook ou Twitter\), l'autre horizontale. Cette dernière suit la navigation verticale : 
 
-La ligne horizontale suit la navigation verticale : 
+* Les points sur la timeline horizontale représentent les événements du projet. 
+* Les parties colorées sur la ligne sont les espaces temporels visibles à l'écran lorsque l'on scrolle verticalement, **pour toujours se repérer dans le temps du projet**.
 
-* Les points représentent les événements du projet. 
-* Les parties colorées sur la ligne sont les espaces temporels visibles à l'écran.
-
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 Il est possible d'effectuer les opérations suivantes à partir de la timeline horizontale :  
 
-* Cliquer sur un point "événement" ou sur la petite fenêtre présentant l'événement, positionne la timeline verticale sur l'événement en question
+* Cliquer sur un point "événement" ou sur la petite fenêtre présentant l'événement, positionne la timeline verticale sur l'événement en question.
 * Survoler un point "événement" donne un aperçu rapide des informations basiques sur cet événement.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="info" %}
 Pour ouvrir l'événement de la timeline horizontale, il faut cliquer sur le petit icône crayon jaune "Modifier"
@@ -93,7 +105,7 @@ L'intérêt d'un projet, c'est qu'il expose des événements qui lui soient lié
 
 A la création d'un projet, une invitation à créer votre premier événement s'inscrit sur la page d'accueil de la timeline \(icône jaune\). Sinon, pour ajouter d'autres événements, soit vous cliquez sur l'icône Plus, soit vous pouvez aussi vous positionner sur la timeline, et sélectionner la fenêtre en pointillée vous invitant à ajouter un événement : 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 {% hint style="info" %}
 La possibilité d'ajouter un événement est conditionné au fait que vous ayez les droits utilisateurs pour contribuer au projet
@@ -105,42 +117,39 @@ La fiche d'un événement se présente sous la forme suivante \(a minima elle po
 
 ![](../.gitbook/assets/evenement.PNG)
 
-### Paramètres d'un projet
-
-La page Paramètres d'un projet contient plusieurs espaces expliqués ci-dessous : 
-
-![](../.gitbook/assets/image%20%284%29.png)
-
-{% hint style="info" %}
-Il est important d'enrichir en liens, contacts, artistes ou concepts la page descriptive d'un projet car Weever **lie sémantiquement** tous les éléments archivés afin de proposer des fonctionnalités de visualisation et d'analyse avancées des données
-{% endhint %}
-
 ## Attacher des ressources
 
-Il est possible d'attacher des ressources média \(textes, images, vidéos, pdfs, ...\) directement lors de la création d'un événement comme le montre l'image suivante :  
+### Plusieurs possibilités
 
-![](../.gitbook/assets/image%20%288%29.png)
+* **à la création d'un événement** : Il est possible d'attacher des ressources média \(textes, images, vidéos, pdfs, ...\) directement lors de la création d'un événement comme le montre l'image suivante :  
 
-La page du Menu d'un événement apparaît
+![](../.gitbook/assets/image%20%2811%29.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
+La page du **Menu d'un événement** apparaît positionnée sur l'onglet Ressources qui liste toutes les ressources déjà attachées à l'événement \(avec leur droit de confidentialité\). Pour en ajouter, il faut cliquer sur le Plus \(si les droits sont donnés\), ouvrant le navigateur de ressources \(voir le § Navigateur de ressources\)
 
-## Page du groupe projet
+![](../.gitbook/assets/image%20%2818%29.png)
 
-Pour chaque projet créé, un groupe **Equipe du projet** se crée automatiquement, il est ensuite possible de personnaliser les champs de description de ce groupe.
+{% hint style="info" %}
+Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/weever/~/drafts/-LMfmZuAfeBJGFwKbyWu/primary/premiers-pas/naviguer-dans-weever#menu-dun-evenement) pour plus de détail sur le Menu d'un événement. Egalement voir le chapitre **La gestion des droits** pour plus de détail sur les droits de confidentialité attachés aux ressources et autres éléments de Weever\)
+{% endhint %}
 
-![](../.gitbook/assets/image%20%282%29.png)
+* **A partir d'un événement déjà ajouté dans la timeline du projet** : il faut cliquer sur l'icône jaune Ressource
 
-Pour accéder à cette page, plusieurs possibilités : 
+![](../.gitbook/assets/image%20%2817%29.png)
 
-* passer par le menu latéral en haut à gauche et sélectionner Groupes dans le sous-menu \[administration\]
-* passer par le menu **Paramètres** du projet lui-même et cliquer sur le lien dédié au groupe de ce projet sous le titre Equipe du projet pour ajouter des membres
+* **En cliquant sur le titre de l'événement** : cette action ouvre le Menu de l'événement, il faut alors sélectionner l'onglet Ressources et cliquer sur le Plus \(si les droits sont donnés\)
 
-Comme le présente l'image ci-dessus, il est possible de modifier le nom du groupe de projet, de lui ajouter une description et enfin de lui associer des membres, qui auront alors la possibilité d'ajouter des éléments dans le projet \(événements, ressources, mémos,...\)
+### Le navigateur de ressources
 
-## Naviguer dans Weever
+Le fait de cliquer sur le Plus lorsque l'on veut ajouter des ressources ouvre le Navigateur de ressources : 
 
+![](../.gitbook/assets/image%20%2816%29.png)
 
+Le navigateur 
+
+#### Rechercher un ressource
+
+![](../.gitbook/assets/image%20%289%29.png)
 
 
 
