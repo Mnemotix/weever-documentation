@@ -22,5 +22,15 @@ blabal
 
 ### Menu d'un événement
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
+
+**Mémos** : Cet onglet permet de voir sous une forme séquentielle les contributions textuelles des membres du projet comme autant de points de vues individuels sur l'événement commenté. On peut aussi les voir directement sur les événements dans la timeline.
+
+**Ressources** : Cet onglet permet d'accéder à la liste des ressources attachées à l'événement. Il est aussi possible de passer par ce menu pour ajouter de nouvelles ressources.
+
+**Flux d'activités** : comme pour un projet, cet onglet permet de voir toutes les interactions entre les membres du projet et les éléments archivés
+
+Paramètres : 
+
+
 
