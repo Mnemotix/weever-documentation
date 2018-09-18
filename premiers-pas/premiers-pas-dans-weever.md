@@ -4,7 +4,7 @@
 
 Dans l'architecture Synaptix, l'authentification est prise en charge par un composant appelé KeyCloak.
 
-![](../.gitbook/assets/keycloak_logo.png)
+![Keycloack logo](../.gitbook/assets/keycloak_logo.png)
 
 Il s'agit d'un service capable de se connecter à différentes sources de données utilisateurs et qui propose des services d'authentification sécurisée pour les applications clientes comme Koncept et Weever.
 
@@ -32,7 +32,7 @@ Avant toute interaction sur la plateforme Weever, il est important de renseigner
 
 Pour accéder aux fonctionnalités de Weever, cliquez sur le Menu latéral en haut à gauche. Il se plie et se déplie par simple clic de souris sur le menu. Il propose un accès direct à toutes les fonctionnalités de Weever, que l'on retrouve aussi en naviguant dans l'interface.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 {% hint style="info" %}
 Ce menu est plus ou moins riche en fonction des droits utilisateurs \(possibilité de créer un nouveau projet, un nouveau contact, un nouvel utilisateur ou un nouveau groupe\)
@@ -58,7 +58,7 @@ Enfin, le moteur de recherche vous permet une première navigation par mot-clé 
 
 Suivant les droits utilisateurs qui vous ont été octroyés, vous avez la possibilité de créer un projet. Vous devez voir un icône Plus sur lequel il faut cliquer pour créer un nouveau projet.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 {% hint style="info" %}
 Il est aussi possible de passer par le menu en haut à gauche de l'écran \(voir le lien Actions : Nouveau projet\)
@@ -83,14 +83,14 @@ La page projet présente deux lignes de temps, l'une verticale, qui se parcours 
 * Les points sur la timeline horizontale représentent les événements du projet. 
 * Les parties colorées sur la ligne sont les espaces temporels visibles à l'écran lorsque l'on scrolle verticalement, **pour toujours se repérer dans le temps du projet**.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 Il est possible d'effectuer les opérations suivantes à partir de la timeline horizontale :  
 
 * Cliquer sur un point "événement" ou sur la petite fenêtre présentant l'événement, positionne la timeline verticale sur l'événement en question.
 * Survoler un point "événement" donne un aperçu rapide des informations basiques sur cet événement.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 {% hint style="info" %}
 Pour ouvrir l'événement de la timeline horizontale, il faut cliquer sur le petit icône crayon jaune "Modifier"
@@ -105,7 +105,7 @@ L'intérêt d'un projet, c'est qu'il expose des événements qui lui soient lié
 
 A la création d'un projet, une invitation à créer votre premier événement s'inscrit sur la page d'accueil de la timeline \(icône jaune\). Sinon, pour ajouter d'autres événements, soit vous cliquez sur l'icône Plus, soit vous pouvez aussi vous positionner sur la timeline, et sélectionner la fenêtre en pointillée vous invitant à ajouter un événement : 
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 {% hint style="info" %}
 La possibilité d'ajouter un événement est conditionné au fait que vous ayez les droits utilisateurs pour contribuer au projet
@@ -123,33 +123,56 @@ La fiche d'un événement se présente sous la forme suivante \(a minima elle po
 
 * **à la création d'un événement** : Il est possible d'attacher des ressources média \(textes, images, vidéos, pdfs, ...\) directement lors de la création d'un événement comme le montre l'image suivante :  
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 La page du **Menu d'un événement** apparaît positionnée sur l'onglet Ressources qui liste toutes les ressources déjà attachées à l'événement \(avec leur droit de confidentialité\). Pour en ajouter, il faut cliquer sur le Plus \(si les droits sont donnés\), ouvrant le navigateur de ressources \(voir le § Navigateur de ressources\)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 {% hint style="info" %}
-Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/weever/~/drafts/-LMfmZuAfeBJGFwKbyWu/primary/premiers-pas/naviguer-dans-weever#menu-dun-evenement) pour plus de détail sur le Menu d'un événement. Egalement voir le chapitre **La gestion des droits** pour plus de détail sur les droits de confidentialité attachés aux ressources et autres éléments de Weever\)
+Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/weever/~/drafts/-LMfmZuAfeBJGFwKbyWu/primary/premiers-pas/naviguer-dans-weever#menu-dun-evenement) pour plus de détail sur le Menu d'un événement. Egalement voir le chapitre [**La gestion des droits**](https://mnemotix.gitbook.io/weever/~/drafts/-LMg8YogN7oC-cj0CACQ/primary/en-savoir-plus/gestion-des-droits) pour plus de détail sur les droits de confidentialité attachés aux ressources et autres éléments de Weever\)
 {% endhint %}
 
 * **A partir d'un événement déjà ajouté dans la timeline du projet** : il faut cliquer sur l'icône jaune Ressource
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 * **En cliquant sur le titre de l'événement** : cette action ouvre le Menu de l'événement, il faut alors sélectionner l'onglet Ressources et cliquer sur le Plus \(si les droits sont donnés\)
+* **En cliquant sur l'icône des ressources attachées sous l'événement** : ça ouvre directement le Menu de l'événement sur l'onglet Ressources
+
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### Le navigateur de ressources
 
 Le fait de cliquer sur le Plus lorsque l'on veut ajouter des ressources ouvre le Navigateur de ressources : 
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
-Le navigateur 
+Le navigateur regroupe toutes les ressources postées par les membres de la plateforme \(ayant le droit d'être visibles par tous\). Il est possible d'attacher des ressources déjà existantes à des événements. Pour cela, il suffit d'utiliser le moteur de recherche pour sélectionner les ressources : 
 
-#### Rechercher un ressource
+#### 1\) Rechercher un ressource
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
+
+#### 2\) Sélectionner des ressources existantes
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+{% hint style="success" %}
+Cliquer sur **Sélectionner les x ressources** proposé en bas de la page du navigateur pour insérer dans votre événement les ressources désirées
+{% endhint %}
+
+#### 3\) Indexation facilitée de la ressource
+
+Quand on sélectionne une ressource \(ou qu'on en importe une nouvelle d'ailleurs\), la fenêtre suivante propose de renseigner automatiquement la fiche de la ressource avec les éléments descriptifs de l'événement : 
+
+![](../.gitbook/assets/image%20%2819%29.png)
+
+{% hint style="success" %}
+Cette fenêtre propose des choix multiples pour faciliter l'archivage et l'indexation sémantique de la ressource \(voir le chapitre 
+{% endhint %}
+
+### L'importation de ressources
 
 
 
