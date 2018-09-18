@@ -4,7 +4,7 @@
 
 La page Paramètres d'un projet contient plusieurs espaces expliqués ci-dessous : 
 
-![](../.gitbook/assets/image%20%287%29.png)
+![Page Param&#xE8;tres d&apos;un projet](../.gitbook/assets/image%20%287%29.png)
 
 {% hint style="info" %}
 Il est important d'enrichir en liens, contacts, artistes ou concepts la page descriptive d'un projet car Weever **lie sémantiquement** tous les éléments archivés afin de proposer des fonctionnalités de visualisation et d'analyse avancées des données
@@ -14,7 +14,7 @@ Il est important d'enrichir en liens, contacts, artistes ou concepts la page des
 
 Pour chaque projet créé, un groupe **Equipe du projet** se crée automatiquement, il est ensuite possible de personnaliser les champs de description de ce groupe.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![Page d&apos;un groupe projet](../.gitbook/assets/image%20%282%29.png)
 
 Pour accéder à cette page, plusieurs possibilités : 
 

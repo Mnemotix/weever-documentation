@@ -12,7 +12,7 @@ Pour se créer un compte, il faut suivre la procédure suivante :
 
 1\) Créez un compte en cliquant sur "Register" : 
 
-![](../.gitbook/assets/firstregister.PNG)
+![Fen&#xEA;tre de cr&#xE9;ation de compte](../.gitbook/assets/firstregister.PNG)
 
 2\)  Ensuite, une fois le compte créé, ce dernier sera le même pour toutes les applications de Mnémotix
 
@@ -20,7 +20,7 @@ Pour se créer un compte, il faut suivre la procédure suivante :
 
 Avant toute interaction sur la plateforme Weever, il est important de renseigner son profil, l'adresse mail étant remplie lors de la premier connexion à l'enregistrement. Les champs usuels téléphone et adresse sont proposés. Il y a aussi un champ dédié à une petite bio pour se présenter.
 
-![](../.gitbook/assets/image.png)
+![Page profil de Weever](../.gitbook/assets/image.png)
 
 {% hint style="info" %}
  Par défaut, l'avatar du menu Profil reprend la première lettre du prénom, mais nous conseillons de télécharger votre propre avatar pour améliorer l'expérience utilisateur dans la communauté des membres de la Plateforme
@@ -32,7 +32,7 @@ Avant toute interaction sur la plateforme Weever, il est important de renseigner
 
 Pour accéder aux fonctionnalités de Weever, cliquez sur le Menu latéral en haut à gauche. Il se plie et se déplie par simple clic de souris sur le menu. Il propose un accès direct à toutes les fonctionnalités de Weever, que l'on retrouve aussi en naviguant dans l'interface.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![Menu lat&#xE9;ral refermable](../.gitbook/assets/image%20%284%29.png)
 
 {% hint style="info" %}
 Ce menu est plus ou moins riche en fonction des droits utilisateurs \(possibilité de créer un nouveau projet, un nouveau contact, un nouvel utilisateur ou un nouveau groupe\)
@@ -48,7 +48,7 @@ La mosaïque des projets s'ouvre automatiquement sur tous les projets auxquels v
 
 Enfin, le moteur de recherche vous permet une première navigation par mot-clé dans toutes les ressources du site \(**voir le chapitre Naviguer dans Weever**\).
 
-![](../.gitbook/assets/weeveraccueil.PNG)
+![Page d&apos;accueil de Weever](../.gitbook/assets/weeveraccueil.PNG)
 
 {% hint style="info" %}
 **L'activité de l'équipe** présente les dernières actions de la communauté sur la plateforme. Il est possible de cliquer sur les éléments cliquables pour ouvrir directement les éléments nouveaux.
@@ -58,7 +58,7 @@ Enfin, le moteur de recherche vous permet une première navigation par mot-clé 
 
 Suivant les droits utilisateurs qui vous ont été octroyés, vous avez la possibilité de créer un projet. Vous devez voir un icône Plus sur lequel il faut cliquer pour créer un nouveau projet.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![Cr&#xE9;ation d&apos;un projet &#xE0; partir de l&apos;accueil](../.gitbook/assets/image%20%2813%29.png)
 
 {% hint style="info" %}
 Il est aussi possible de passer par le menu en haut à gauche de l'écran \(voir le lien Actions : Nouveau projet\)
@@ -66,7 +66,7 @@ Il est aussi possible de passer par le menu en haut à gauche de l'écran \(voir
 
 La création d'un projet est très simple et demande juste de renseigner un titre et éventuellement une description. Par défaut une couleur est associée pour personnaliser le projet dans la mosaïque de la page d'accueil, mais il est possible dans la page **paramètres d'un projet** de changer la couleur par une image.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![Fen&#xEA;tre de cr&#xE9;ation d&apos;un nouveau projet](../.gitbook/assets/image%20%281%29.png)
 
 ## Enrichir un projet
 
@@ -74,7 +74,7 @@ La page d'accueil d'un projet se présente principalement sous la forme d'une li
 
 La présentation en timeline a été retenue comme une des meilleures fonctionnalités pour “raconter” l’histoire d’un projet. La narration avec les données \(_data storytelling_\) est une branche de la visualisation de l'information qui provient du journalisme informatique. Les visualisations narratives \(notamment sous forme de timeline\) sont conçues pour inviter les lecteurs à s’engager avec les données visualisées en établissant une connexion personnelle entre le lecteur et les données présentées \(cf. E. Segel and J. Heer, “[Narrative Visualization: Telling Stories with Data,](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)” IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 1139–1148, 2010\).
 
-![](../.gitbook/assets/weeverprojet.PNG)
+![Timeline d&apos;un projet avec ses &#xE9;v&#xE9;nements](../.gitbook/assets/weeverprojet.PNG)
 
 ### Les timelines d'un projet
 
@@ -83,14 +83,14 @@ La page projet présente deux lignes de temps, l'une verticale, qui se parcours 
 * Les points sur la timeline horizontale représentent les événements du projet. 
 * Les parties colorées sur la ligne sont les espaces temporels visibles à l'écran lorsque l'on scrolle verticalement, **pour toujours se repérer dans le temps du projet**.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![Visualisation d&apos;un &#xE9;v&#xE9;nement \(avec droits de modification\)](../.gitbook/assets/image%20%2811%29.png)
 
 Il est possible d'effectuer les opérations suivantes à partir de la timeline horizontale :  
 
 * Cliquer sur un point "événement" ou sur la petite fenêtre présentant l'événement, positionne la timeline verticale sur l'événement en question.
 * Survoler un point "événement" donne un aperçu rapide des informations basiques sur cet événement.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![Timeline horizontale](../.gitbook/assets/image%20%2817%29.png)
 
 {% hint style="info" %}
 Pour ouvrir l'événement de la timeline horizontale, il faut cliquer sur le petit icône crayon jaune "Modifier"
@@ -105,7 +105,7 @@ L'intérêt d'un projet, c'est qu'il expose des événements qui lui soient lié
 
 A la création d'un projet, une invitation à créer votre premier événement s'inscrit sur la page d'accueil de la timeline \(icône jaune\). Sinon, pour ajouter d'autres événements, soit vous cliquez sur l'icône Plus, soit vous pouvez aussi vous positionner sur la timeline, et sélectionner la fenêtre en pointillée vous invitant à ajouter un événement : 
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![Ajout d&apos;un &#xE9;v&#xE9;nement directement de la timeline](../.gitbook/assets/image%20%2816%29.png)
 
 {% hint style="info" %}
 La possibilité d'ajouter un événement est conditionné au fait que vous ayez les droits utilisateurs pour contribuer au projet
@@ -115,19 +115,21 @@ La possibilité d'ajouter un événement est conditionné au fait que vous ayez 
 
 La fiche d'un événement se présente sous la forme suivante \(a minima elle possède un titre par défaut ainsi qu'une date de début\) :
 
-![](../.gitbook/assets/evenement.PNG)
+![Fen&#xEA;tre d&apos;&#xE9;dition d&apos;un &#xE9;v&#xE9;nement sur la timeline](../.gitbook/assets/evenement.PNG)
 
 ## Attacher des ressources
 
-### Plusieurs possibilités
+Weever a été conçu pour rendre compte en temps réel de la vie d'un projet artistique. Il s'agit de pouvoir attacher à chaque événement d'un projet des ressources média comme du texte, des documents, des mails, des photos ou des vidéos, …
+
+### Plusieurs possibilités d'attachement
 
 * **à la création d'un événement** : Il est possible d'attacher des ressources média \(textes, images, vidéos, pdfs, ...\) directement lors de la création d'un événement comme le montre l'image suivante :  
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![Attacher des ressources &#xE0; partir d&apos;un &#xE9;v&#xE9;nement cr&#xE9;&#xE9;](../.gitbook/assets/image%20%2814%29.png)
 
 La page du **Menu d'un événement** apparaît positionnée sur l'onglet Ressources qui liste toutes les ressources déjà attachées à l'événement \(avec leur droit de confidentialité\). Pour en ajouter, il faut cliquer sur le Plus \(si les droits sont donnés\), ouvrant le navigateur de ressources \(voir le § Navigateur de ressources\)
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![Menu Ressources d&apos;un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2822%29.png)
 
 {% hint style="info" %}
 Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/weever/~/drafts/-LMfmZuAfeBJGFwKbyWu/primary/premiers-pas/naviguer-dans-weever#menu-dun-evenement) pour plus de détail sur le Menu d'un événement. Egalement voir le chapitre [**La gestion des droits**](https://mnemotix.gitbook.io/weever/~/drafts/-LMg8YogN7oC-cj0CACQ/primary/en-savoir-plus/gestion-des-droits) pour plus de détail sur les droits de confidentialité attachés aux ressources et autres éléments de Weever\)
@@ -135,28 +137,28 @@ Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/w
 
 * **A partir d'un événement déjà ajouté dans la timeline du projet** : il faut cliquer sur l'icône jaune Ressource
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![Utilisation des ic&#xF4;nes de modification \(visibles suivant les droits\)](../.gitbook/assets/image%20%2821%29.png)
 
 * **En cliquant sur le titre de l'événement** : cette action ouvre le Menu de l'événement, il faut alors sélectionner l'onglet Ressources et cliquer sur le Plus \(si les droits sont donnés\)
 * **En cliquant sur l'icône des ressources attachées sous l'événement** : ça ouvre directement le Menu de l'événement sur l'onglet Ressources
 
-![](../.gitbook/assets/image%20%288%29.png)
+![Acc&#xE8;s aux ressources par l&apos;ic&#xF4;ne Ressources attach&#xE9;es](../.gitbook/assets/image%20%288%29.png)
 
 ### Le navigateur de ressources
 
 Le fait de cliquer sur le Plus lorsque l'on veut ajouter des ressources ouvre le Navigateur de ressources : 
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![Fen&#xEA;tre du navigateur de ressources](../.gitbook/assets/image%20%2820%29.png)
 
 Le navigateur regroupe toutes les ressources postées par les membres de la plateforme \(ayant le droit d'être visibles par tous\). Il est possible d'attacher des ressources déjà existantes à des événements. Pour cela, il suffit d'utiliser le moteur de recherche pour sélectionner les ressources : 
 
 #### 1\) Rechercher un ressource
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![Moteur de recherche dans les ressources](../.gitbook/assets/image%20%2812%29.png)
 
 #### 2\) Sélectionner des ressources existantes
 
-![](../.gitbook/assets/image%20%283%29.png)
+![S&#xE9;lection de ressources](../.gitbook/assets/image%20%283%29.png)
 
 {% hint style="success" %}
 Cliquer sur **Sélectionner les x ressources** proposé en bas de la page du navigateur pour insérer dans votre événement les ressources désirées
@@ -166,7 +168,7 @@ Cliquer sur **Sélectionner les x ressources** proposé en bas de la page du nav
 
 Quand on sélectionne une ressource \(ou qu'on en importe une nouvelle d'ailleurs\), la fenêtre suivante propose de renseigner automatiquement la fiche de la ressource avec les éléments descriptifs de l'événement : 
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![Fen&#xEA;tre d&apos;aide &#xE0; l&apos;indexation des ressources](../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="success" %}
 Cette fenêtre propose des choix multiples pour faciliter l'archivage et l'indexation sémantique de la ressource \(voir le chapitre 
