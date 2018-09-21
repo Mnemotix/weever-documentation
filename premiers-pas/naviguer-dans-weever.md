@@ -8,7 +8,7 @@ Il y a plusieurs moyens de rechercher des données dans Weever, nous les listons
 
 Le moteur est directement accessible depuis la page d'accueil \(représenté par l'icône Maison dans tout le site devant le fil d'ariane\). Il est possible de rechercher une personne, ou tout mot-clé décrivant un projet, un événement, une ressource ou un concept, et ceci dans toutes les rubriques de Weever à savoir _1\)_ les projets, _2\)_ les ressources, _3\)_ les personnes et _4\)_ les organisations
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 Il est aussi possible d'utiliser les facettes sous les Filtres pour réduire le champ de recherche, en cochant simplement les cases devant les facettes. Il est aussi possible de combiner la recherche full text et les facettes.
 
@@ -16,7 +16,7 @@ Il est aussi possible d'utiliser les facettes sous les Filtres pour réduire le 
 
 ### Menu d'un projet
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 **Ligne de temps** :  Par défaut, la timeline du projet est affichée
 
@@ -30,7 +30,7 @@ Il est aussi possible d'utiliser les facettes sous les Filtres pour réduire le 
 
 ### Menu d'un événement
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 **Mémos** : Cet onglet permet de voir sous une forme séquentielle les contributions textuelles des membres du projet comme autant de points de vues individuels sur l'événement commenté. On peut aussi les voir directement sur les événements dans la timeline.
 
