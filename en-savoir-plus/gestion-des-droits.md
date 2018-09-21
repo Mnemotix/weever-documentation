@@ -1,14 +1,14 @@
 # La gestion des droits
 
-## Paramètres d'un projet
+## Les règles de confidentialité
 
-La page Paramètres d'un projet contient plusieurs espaces expliqués ci-dessous : 
+Tous les éléments versés dans Weever, que ce soit les ressources, les événements ou les projets ainsi que les profils des acteurs ont une rubrique "**Règle de confidentialité**" dans leur paramétrage.
 
-![Page Param&#xE8;tres d&apos;un projet](../.gitbook/assets/image%20%2812%29.png)
+![R&#xE8;gles de confidentialit&#xE9; dans un &#xE9;v&#xE9;nement](https://lh6.googleusercontent.com/zEK7zKafyTKykvHqXezgP5U0lfl1gw5d3bRlernKXZkZWmpFNDRwaLhOMhdUbysRMEhS2aRuR1sWYL_46DhyKPdVnH0YDLLYfKdTrbuhzlENWMX-kE6BRdafyZUMjI40e922VGFpbr0)
 
-{% hint style="info" %}
-Il est important d'enrichir en liens, contacts, artistes ou concepts la page descriptive d'un projet car Weever **lie sémantiquement** tous les éléments archivés afin de proposer des fonctionnalités de visualisation et d'analyse avancées des données
-{% endhint %}
+Ces règles sont fixées dans l'espace **Paramètres généraux** de la plateforme, pour cela il faut évidemment avoir les droits administrateur pour ajouter / modifier ou supprimer ces règles. Comme le montre la figure ci-dessous
+
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ## Page du groupe projet
 

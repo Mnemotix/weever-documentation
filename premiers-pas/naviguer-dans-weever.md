@@ -82,6 +82,14 @@ Cette fonctionnalité spécifique à Lafayette Anticipations est directement exp
 
 **Paramètres** : Il s'agit de l'espace descriptif du projet, où il est possible d'ajouter des artistes, des membres, des concepts, une bio
 
+La page Paramètres d'un projet contient plusieurs espaces expliqués ci-dessous : 
+
+![Page Param&#xE8;tres d&apos;un projet](../.gitbook/assets/image%20%2812%29.png)
+
+{% hint style="info" %}
+Il est important d'enrichir en liens, contacts, artistes ou concepts la page descriptive d'un projet car Weever **lie sémantiquement** tous les éléments archivés afin de proposer des fonctionnalités de visualisation et d'analyse avancées des données
+{% endhint %}
+
 ### Menu d'un événement
 
 ![](../.gitbook/assets/image%20%2833%29.png)

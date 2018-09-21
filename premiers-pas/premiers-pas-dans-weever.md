@@ -86,7 +86,7 @@ Il est possible d'effectuer les opérations suivantes à partir de la timeline h
 * Cliquer sur un point "événement" ou sur la petite fenêtre présentant l'événement positionne la timeline verticale sur l'événement en question.
 * Survoler un point "événement" donne un aperçu rapide des informations basiques sur cet événement.
 
-![Timeline horizontale](../.gitbook/assets/image%20%2838%29.png)
+![Timeline horizontale](../.gitbook/assets/image%20%2839%29.png)
 
 {% hint style="info" %}
 Pour ouvrir l'événement à partir de la timeline horizontale, il faut cliquer sur le petit icône crayon jaune "Modifier"
@@ -101,7 +101,7 @@ L'intérêt d'un projet, c'est qu'il expose des événements qui lui sont liés,
 
 A la création d'un projet, une invitation à créer votre premier événement s'inscrit sur la page d'accueil de la timeline \(icône jaune\). Sinon, pour ajouter d'autres événements, soit vous cliquez sur l'icône Plus, soit vous pouvez aussi vous positionner sur la timeline, et sélectionner la fenêtre en pointillée vous invitant à ajouter un événement : 
 
-![Ajout d&apos;un &#xE9;v&#xE9;nement directement de la timeline](../.gitbook/assets/image%20%2835%29.png)
+![Ajout d&apos;un &#xE9;v&#xE9;nement directement de la timeline](../.gitbook/assets/image%20%2836%29.png)
 
 {% hint style="info" %}
 La possibilité d'ajouter un événement est conditionné au fait que vous ayez les droits utilisateurs pour contribuer au projet.
@@ -131,7 +131,7 @@ Pour écrire un Memo, plusieurs possibilités :
 * en cliquant sur le Plus dans la Timeline Discussion \(qui présente les différents acteurs ayant ajouté un Memo à propos de l'événement\)
 * en cliquant sur le titre de l'événement, ce qui ouvre le Menu de l'événement sur l'onglet Memo \(comme le montre la figure ci-dessous\). On peut ainsi voir toutes les contributions textuelles faites par les membres du projet sur un événement particulier.
 
-![Onglet Memos dans le Menu Ev&#xE9;nement](../.gitbook/assets/image%20%2845%29.png)
+![Onglet Memos dans le Menu Ev&#xE9;nement](../.gitbook/assets/image%20%2846%29.png)
 
 {% hint style="success" %}
 Le Memo permet d’ajouter des anecdotes sur le projet artistique, comme par exemple, des artistes influencés par les conditions de production de leur oeuvre du fait de contraintes extérieures, ce qui change la direction du projet etc…
@@ -163,7 +163,7 @@ Weever a été conçu pour rendre compte en temps réel de la vie d'un projet ar
 
 La page du **Menu d'un événement** apparaît positionnée sur l'onglet Ressources qui liste toutes les ressources déjà attachées à l'événement \(avec leur droit de confidentialité\). Pour en ajouter, il faut cliquer sur le Plus \(si les droits sont donnés\), ouvrant le navigateur de ressources \(voir le § Navigateur de ressources\)
 
-![Menu Ressources d&apos;un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2848%29.png)
+![Menu Ressources d&apos;un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2849%29.png)
 
 {% hint style="info" %}
 Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/weever/~/drafts/-LMfmZuAfeBJGFwKbyWu/primary/premiers-pas/naviguer-dans-weever#menu-dun-evenement) pour plus de détail sur le Menu d'un événement. Egalement voir le chapitre **En savoir plus /**  [**La gestion des droits**](https://mnemotix.gitbook.io/weever/~/drafts/-LMg8YogN7oC-cj0CACQ/primary/en-savoir-plus/gestion-des-droits) pour plus de détail sur les droits de confidentialité attachés aux ressources et autres éléments de Weever.
@@ -171,7 +171,7 @@ Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/w
 
 * **A partir d'un événement déjà ajouté dans la timeline du projet** : il faut cliquer sur l'icône jaune Ressource
 
-![Utilisation des ic&#xF4;nes de modification \(visibles suivant les droits\)](../.gitbook/assets/image%20%2846%29.png)
+![Utilisation des ic&#xF4;nes de modification \(visibles suivant les droits\)](../.gitbook/assets/image%20%2847%29.png)
 
 * **En cliquant sur le titre de l'événement** : cette action ouvre le Menu de l'événement, il faut alors sélectionner l'onglet Ressources et cliquer sur le Plus \(si les droits sont donnés\)
 * **En cliquant sur l'icône des ressources attachées sous l'événement** : cela ouvre directement le Menu de l'événement sur l'onglet Ressources
@@ -182,7 +182,7 @@ Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/w
 
 Le fait de cliquer sur le Plus lorsque l'on veut ajouter des ressources ouvre le Navigateur de ressources : 
 
-![Fen&#xEA;tre du navigateur de ressources](../.gitbook/assets/image%20%2844%29.png)
+![Fen&#xEA;tre du navigateur de ressources](../.gitbook/assets/image%20%2845%29.png)
 
 Le navigateur regroupe toutes les ressources postées par les membres de la plateforme. Il est possible d'attacher des ressources déjà existantes à des événements. Pour cela, il suffit d'utiliser le moteur de recherche pour sélectionner les ressources : 
 
@@ -194,11 +194,11 @@ Le navigateur regroupe toutes les ressources postées par les membres de la plat
 
 Pour cela, il faut cliquer sur le petit icône à droite dans la barre grise pour faire apparaître le menu de sélection des métadonnées des ressources
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 =&gt; le menu suivant apparaît : 
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la liste des ressources, pour visualiser les ressources qui ont été taguées avec les concepts du thésaurus \(voir **En savoir plus /** [**Indexation sémantique dans Weever**](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\) 
 
@@ -216,7 +216,7 @@ Cliquer sur **Sélectionner les x ressources** proposé en bas de la page du nav
 
 Quand on sélectionne une ressource \(ou qu'on en importe une nouvelle d'ailleurs\), la fenêtre suivante propose de renseigner automatiquement la fiche de la ressource avec les éléments descriptifs de l'événement : 
 
-![Fen&#xEA;tre d&apos;aide &#xE0; l&apos;indexation des ressources](../.gitbook/assets/image%20%2843%29.png)
+![Fen&#xEA;tre d&apos;aide &#xE0; l&apos;indexation des ressources](../.gitbook/assets/image%20%2844%29.png)
 
 {% hint style="success" %}
 Cette fenêtre propose des choix multiples pour faciliter l'archivage et l'indexation sémantique de la ressource \(voir **En savoir plus /** [**Indexation sémantique dans Weever**](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\)
@@ -238,7 +238,7 @@ Il arrive que la ressource soit parfois très lourde et/ou que le débit interne
 
 Lorsque les ressources sont bien importées \(indiqué par le bandeau vert\), vous avez encore la possibilité de désélectionner des ressources dans la liste \(en cliquant simplement dessus\) pour les attacher ou non à un événement. Ensuite, pour finalement attacher les ressources sélectionnées en jaune, il faut cliquer sur **Sélectionner x ressources** en bas de la fenêtre.
 
-![S&#xE9;lection des ressources &#xE0; attacher &#xE0; un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2840%29.png)
+![S&#xE9;lection des ressources &#xE0; attacher &#xE0; un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2841%29.png)
 
 {% hint style="info" %}
 Même si les ressources sont désélectionnées à ce stade, ces dernières ont bien été importées dans les ressources de Weever \(voir le § **Page Ressource**\).
@@ -254,5 +254,5 @@ Lorsque plusieurs ressources, notamment des images, sont attachées à un évén
 
 Un clic de souris sur une ressource à partir d'un événement va ouvrir un scroller de ressources, où chaque ressource est présentée avec d'un côté sa représentation et de l'autre ses métadonnées : 
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
