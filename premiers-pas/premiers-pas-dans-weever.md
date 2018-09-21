@@ -139,13 +139,15 @@ Nous avons introduit dans l’écriture d’un mémo le fait de pouvoir sémanti
 
 Pour ajouter un élément enrichi dans un Memo, plusieurs possibilités : 
 
-* soit vous connaissez le terme, ou le contact, il vous suffit d'utiliser le caractère @ pour mentionner une personne ou le hastag \# pour mentionner un concept du thésaurus 
+* soit vous connaissez le terme, ou le contact, il vous suffit d'utiliser le caractère @ pour mentionner une personne ou le hastag \# pour mentionner un concept du thésaurus, la liste des personnes ou concepts s'affiche en auto-complétion :  
 
-  ![](../.gitbook/assets/image%20%282%29.png)
+![Auto-compl&#xE9;tion a l&apos;ajout d&apos;un &#xE9;l&#xE9;ment enrichi \(concept, personnes\)](../.gitbook/assets/image%20%282%29.png)
 
-De la même façon que sur Twitter, nous avons gardé le caractère @ pour mentionner une personne, et le hastag \# pour mentionner un concept du thésaurus.
+* soit vous utilisez le menu du Memo : _1\)_ le premier icône est pour citer un concept du/des thésaurus associer à Weever dans votre communauté \(le navigateur de concept s'ouvre, pour plus de détail voir **En savoir plus / Indexation sémantique dans Weever**\), _2\)_ le second icône est pour attacher une ressource \(il ouvre le navigateur de ressources\), _3\)_ le troisième icône est pour citer une personne \(il ouvre le carnet d'adresse lisant tous les acteurs, personnes ou organisations\), _4\)_ le dernier icône \(optionnel\) est pour citer un objet artistique \(une oeuvre ou une manifestation\)
 
-![](../.gitbook/assets/image%20%2829%29.png)
+{% hint style="info" %}
+L’évocation de personnes ou de concepts dans les mémos permet d’attacher automatiquement ces éléments aux événements du projet. Cet enrichissement sémantique sera exploitable soit pour des visualisations \(des liens entre éléments\), soit pour de la ré-éditorialisation de contenus \(via l'interrogation de l'API Weever\).
+{% endhint %}
 
 ## Attacher des ressources
 
