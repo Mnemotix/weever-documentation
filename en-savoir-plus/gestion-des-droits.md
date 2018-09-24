@@ -6,9 +6,9 @@ Tous les éléments versés dans Weever, que ce soit les ressources, les événe
 
 ![R&#xE8;gles de confidentialit&#xE9; dans un &#xE9;v&#xE9;nement](https://lh6.googleusercontent.com/zEK7zKafyTKykvHqXezgP5U0lfl1gw5d3bRlernKXZkZWmpFNDRwaLhOMhdUbysRMEhS2aRuR1sWYL_46DhyKPdVnH0YDLLYfKdTrbuhzlENWMX-kE6BRdafyZUMjI40e922VGFpbr0)
 
-Ces règles sont fixées dans l'espace **Paramètres généraux** de la plateforme, pour cela il faut évidemment avoir les droits administrateur pour ajouter / modifier ou supprimer ces règles. Comme le montre la figure ci-dessous
+Ces règles sont fixées dans l'espace **Paramètres généraux** de la plateforme, **pour cela il faut évidemment avoir les droits administrateur pour ajouter / modifier ou supprimer ces règles**. Comme le montre la figure ci-dessous, il est possible de rajouter différentes règles de confidentialité \(en fonction des spécificités des membres de la communauté utilisatrice\). Il est aussi possible de fixer la règle prise par défaut dans toute la plateforme.
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## Page du groupe projet
 
