@@ -2,9 +2,7 @@
 
 ## Première connexion : création de compte
 
-Dans l'architecture Synaptix, l'authentification est prise en charge par un composant appelé [KeyCloak](https://www.keycloak.org/). Il s'agit d'un service capable de se connecter à différentes sources de données utilisateurs et qui propose des services d'authentification sécurisée pour les applications clientes comme Koncept et Weever.
-
-Pour se créer un compte, il faut suivre la procédure suivante :
+Nous utilisons un service capable de se connecter à différentes sources de données utilisateurs et qui propose des services d'authentification sécurisée pour les applications clientes comme Koncept et Weever. Pour se créer un compte, il faut suivre la procédure suivante :
 
 1\) Créez un compte en cliquant sur "Register" : 
 
@@ -36,18 +34,18 @@ Ce menu est plus ou moins conséquent en fonction des droits utilisateurs \(poss
 
 L'icône "cloche" vous notifie de toute nouvelle action sur le site \(téléchargement de nouvelles ressources, suivi d'activité etc..\), notifications qu'il est possible d'éteindre dans son Profil.
 
-Vous pouvez à tout instant avoir accès et modifier votre profil \(voir le § Page Mon profil\).
+Vous pouvez à tout instant avoir accès et modifier votre profil \(voir le § [Page Mon profil](https://mnemotix.gitbook.io/weever/premiers-pas/premiers-pas-dans-weever#page-mon-profil)\).
 
 ### La page centrale
 
 La mosaïque des projets s'ouvre automatiquement sur tous les projets auxquels vous avez participé dernièrement \(les vôtres et ceux qui vous ont acceptés comme membre\). Vous voyez également les dernières contributions des membres de la plateforme.
 
-Enfin, le moteur de recherche vous permet une première navigation par mot-clé dans toutes les ressources du site \(**voir le chapitre Naviguer dans Weever**\).
+Enfin, le moteur de recherche vous permet une première navigation par mot-clé dans toutes les ressources du site \(voir le chapitre [Naviguer dans Weever](https://mnemotix.gitbook.io/weever/premiers-pas/naviguer-dans-weever)\).
 
 ![Page d&apos;accueil de Weever](../.gitbook/assets/weeveraccueil.PNG)
 
 {% hint style="info" %}
-**L'activité de l'équipe** présente les dernières actions de la communauté sur la plateforme. Il est possible de cliquer sur les éléments cliquables pour ouvrir directement les éléments nouveaux.
+**L'activité de l'équipe** présente les dernières actions des membres sur la plateforme. Il est possible de cliquer sur les éléments cliquables pour ouvrir directement les éléments nouveaux.
 {% endhint %}
 
 ## Ajouter un nouveau projet
@@ -74,7 +72,7 @@ La présentation en timeline a été retenue comme une des meilleures fonctionna
 
 ### Les timelines d'un projet
 
-La page projet présente deux lignes de temps, l'une verticale, qui se parcourt en scrollant avec la souris \(comme dans les principaux réseaux sociaux comme Facebook ou Twitter\), l'autre horizontale. Cette dernière suit la navigation verticale : 
+La page projet présente deux lignes de temps, l'une verticale, qui se parcourt en scrollant avec la souris \(comme dans les principaux réseaux sociaux comme Facebook ou Twitter\), l'autre horizontale. Cette dernière suit la navigation verticale, c'est à dire que : 
 
 * Les points sur la timeline horizontale représentent les événements du projet. 
 * Les parties colorées sur la ligne sont les espaces temporels visibles à l'écran lorsque l'on scrolle verticalement, **pour toujours se repérer dans le temps du projet**.
@@ -94,11 +92,6 @@ Pour ouvrir l'événement à partir de la timeline horizontale, il faut cliquer 
 
 ### Ajouter un événement
 
-L'intérêt d'un projet, c'est qu'il expose des événements qui lui sont liés, événements pouvant être de nature différente. Il peut s'agir :
-
-*  d'un événement daté comme une réunion, une conférence, un séminaire, la sortie d'un livre ou d'un rapport... 
-* d'un événement non daté comme la recherche d'images, de pages web, de ressources documentaires. Ce dernier type d'événement non daté est placé en haut de la Ligne de temps \(comme un événement permanent\).
-
 A la création d'un projet, une invitation à créer votre premier événement s'inscrit sur la page d'accueil de la timeline \(icône jaune\). Sinon, pour ajouter d'autres événements, soit vous cliquez sur l'icône Plus, soit vous pouvez aussi vous positionner sur la timeline, et sélectionner la fenêtre en pointillée vous invitant à ajouter un événement : 
 
 ![Ajout d&apos;un &#xE9;v&#xE9;nement directement de la timeline](../.gitbook/assets/image%20%2836%29.png)
@@ -109,7 +102,7 @@ La possibilité d'ajouter un événement est conditionné au fait que vous ayez 
 
 ### Fenêtre d'un événement
 
-La fiche d'un événement se présente sous la forme suivante \(a minima elle possède un titre par défaut ainsi qu'une date de début\) :
+La fiche d'un événement se présente sous la forme suivante \(a minima elle possède un titre par défaut ainsi qu'une date de début qu'il est possible de modifier ou de supprimer\) :
 
 ![Fen&#xEA;tre d&apos;&#xE9;dition d&apos;un &#xE9;v&#xE9;nement sur la timeline](../.gitbook/assets/evenement.PNG)
 
@@ -118,10 +111,10 @@ La fiche d'un événement se présente sous la forme suivante \(a minima elle po
 Un Memo permet d’attacher des textes enrichis à un événement, pour optimiser la collaboration des ****membres. L’idée est venu de dépasser l’activité d’être simplement documentaliste mais plutôt d’être le journaliste de sa propre activité.
 
 {% hint style="success" %}
-Il s’agit d’un espace d’échange et de commentaires libres créé pour faciliter la documentation, comme un carnet de bord sur l'événement
+Il s’agit d’un espace d’échange et de commentaires libres créé pour faciliter la documentation, comme un carnet de bord sur l'événement.
 {% endhint %}
 
-Un Memo se présente sous la forme d’une fenêtre de texte, rattachée à un événement. L'édition d'un mémo n'est autorisée qu'au créateur du mémo, de la même manière que sur un fil de discussion seul l'auteur peut modifier ses commentaires. Par contre, il est possible d'offrir un espace d'édition libre en créant plusieurs mémos ouvrant une discussion asynchrone entre plusieurs acteurs au sujet d’un événement \(On peut voir les différents Mémos ajoutés par les membres dans la rubrique Discussion, sous le Memo central\).
+Un Memo se présente sous la forme d’une fenêtre de texte, rattachée à un événement. L'édition d'un mémo n'est autorisée qu'au créateur du mémo, de la même manière que sur un fil de discussion seul l'auteur peut modifier ses commentaires. Par contre, il est possible d'offrir un espace d'édition libre en créant plusieurs mémos ouvrant une discussion asynchrone entre plusieurs acteurs au sujet d’un événement \(on peut voir les différents Mémos ajoutés par les membres dans la rubrique Discussion, sous le Memo central dans la fenêtre de l'événement\).
 
 **Ainsi un des buts recherchés est d’articuler les points de vue individuels des membres d’un projet avec un fil narratif global représentant un projet**.
 
@@ -141,11 +134,11 @@ Nous avons introduit dans l’écriture d’un mémo le fait de pouvoir sémanti
 
 Pour ajouter un élément enrichi dans un Memo, plusieurs possibilités : 
 
-* soit vous connaissez le terme, ou le contact, il vous suffit d'utiliser le caractère @ pour mentionner une personne ou le hastag \# pour mentionner un concept du thésaurus, la liste des personnes ou concepts s'affiche en auto-complétion :  
+* soit vous connaissez le terme, ou le contact, il vous suffit d'utiliser le caractère @ pour mentionner une personne ou le hastag \# pour mentionner un concept du thésaurus, la liste des personnes ou des concepts s'affiche en auto-complétion :  
 
 ![Auto-compl&#xE9;tion a l&apos;ajout d&apos;un &#xE9;l&#xE9;ment enrichi \(concept, personnes\)](../.gitbook/assets/image%20%282%29.png)
 
-* soit vous utilisez le menu du Memo : _1\)_ le premier icône est pour citer un concept du/des thésaurus associer à Weever dans votre communauté \(le navigateur de concept s'ouvre, pour plus de détail voir **En savoir plus /** [**Indexation sémantique dans Weever**](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\), _2\)_ le second icône est pour attacher une ressource \(il ouvre le navigateur de ressources\), _3\)_ le troisième icône est pour citer une personne \(il ouvre le carnet d'adresse lisant tous les acteurs, personnes ou organisations\), _4\)_ le dernier icône \(optionnel\) est pour citer un objet artistique \(une oeuvre ou une manifestation\)
+* soit vous utilisez le menu du Memo : _1\)_ le premier icône est pour citer un concept du/des thésaurus associé à Weever dans votre communauté \(le navigateur de concept s'ouvre, pour plus de détail voir **En savoir plus /** [Indexation sémantique dans Weever](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\), _2\)_ le second icône est pour attacher une ressource \(il ouvre le navigateur de ressources\), _3\)_ le troisième icône est pour citer une personne \(il ouvre le carnet d'adresse lisant tous les acteurs, personnes ou organisations\), _4\)_ le dernier icône \(optionnel\) est pour citer un objet artistique \(une oeuvre ou une manifestation\)
 
 {% hint style="info" %}
 L’évocation de personnes ou de concepts dans les mémos permet d’attacher automatiquement ces éléments aux événements du projet. Cet enrichissement sémantique sera exploitable soit pour des visualisations \(des liens entre éléments\), soit pour de la ré-éditorialisation de contenus \(via l'interrogation de l'API Weever\).
@@ -161,12 +154,12 @@ Weever a été conçu pour rendre compte en temps réel de la vie d'un projet ar
 
 ![Attacher des ressources &#xE0; partir d&apos;un &#xE9;v&#xE9;nement cr&#xE9;&#xE9;](../.gitbook/assets/image%20%2832%29.png)
 
-La page du **Menu d'un événement** apparaît positionnée sur l'onglet Ressources qui liste toutes les ressources déjà attachées à l'événement \(avec leur droit de confidentialité\). Pour en ajouter, il faut cliquer sur le Plus \(si les droits sont donnés\), ouvrant le navigateur de ressources \(voir le § Navigateur de ressources\)
+La page du **Menu d'un événement** apparaît positionnée sur l'onglet Ressources qui liste toutes les ressources déjà attachées à l'événement \(avec leur droit de confidentialité\). Pour en ajouter, il faut cliquer sur le Plus \(si les droits sont donnés\), ouvrant le navigateur de ressources \(voir le § [Le navigateur de ressources](https://mnemotix.gitbook.io/weever/premiers-pas/premiers-pas-dans-weever#le-navigateur-de-ressources)\).
 
 ![Menu Ressources d&apos;un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2849%29.png)
 
 {% hint style="info" %}
-Se reporter au chapitre [**Naviguer dans Weever**](https://mnemotix.gitbook.io/weever/~/drafts/-LMfmZuAfeBJGFwKbyWu/primary/premiers-pas/naviguer-dans-weever#menu-dun-evenement) pour plus de détail sur le Menu d'un événement. Egalement voir le chapitre **En savoir plus /**  [**La gestion des droits**](https://mnemotix.gitbook.io/weever/~/drafts/-LMg8YogN7oC-cj0CACQ/primary/en-savoir-plus/gestion-des-droits) pour plus de détail sur les droits de confidentialité attachés aux ressources et autres éléments de Weever.
+Se reporter au chapitre [Naviguer dans Weever](https://mnemotix.gitbook.io/weever/premiers-pas/naviguer-dans-weever) pour plus de détail sur le Menu d'un événement. Egalement voir le chapitre **En savoir plus /**  [La gestion des droits](https://mnemotix.gitbook.io/weever/en-savoir-plus/gestion-des-droits) pour plus de détail sur les droits de confidentialité attachés aux ressources et autres éléments de Weever.
 {% endhint %}
 
 * **A partir d'un événement déjà ajouté dans la timeline du projet** : il faut cliquer sur l'icône jaune Ressource
@@ -192,7 +185,7 @@ Le navigateur regroupe toutes les ressources postées par les membres de la plat
 
 #### 2\) Visualiser au choix les métadonnées des ressources
 
-Pour cela, il faut cliquer sur le petit icône à droite dans la barre grise pour faire apparaître le menu de sélection des métadonnées des ressources
+Pour cela, il faut cliquer sur le petit icône à droite dans la barre grise pour faire apparaître le menu de sélection des métadonnées des ressources :
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
@@ -200,7 +193,7 @@ Pour cela, il faut cliquer sur le petit icône à droite dans la barre grise pou
 
 ![](../.gitbook/assets/image%20%2848%29.png)
 
-Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la liste des ressources, pour visualiser les ressources qui ont été taguées avec les concepts du thésaurus \(voir **En savoir plus /** [**Indexation sémantique dans Weever**](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\) 
+Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la liste des ressources, pour visualiser les ressources qui ont été taguées avec les concepts du thésaurus \(voir **En savoir plus /** [Indexation sémantique dans Weever](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\) 
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
@@ -209,17 +202,17 @@ Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la list
 ![S&#xE9;lection de ressources](../.gitbook/assets/image%20%285%29.png)
 
 {% hint style="success" %}
-Cliquer sur **Sélectionner les x ressources** proposé en bas de la page du navigateur pour insérer dans votre événement les ressources désirées
+Il faut cliquer sur **Sélectionner les x ressources** proposé en bas de la page du navigateur pour insérer dans l'événement les ressources désirées.
 {% endhint %}
 
 #### 4\) Indexation facilitée de la ressource
 
-Quand on sélectionne une ressource \(ou qu'on en importe une nouvelle d'ailleurs\), la fenêtre suivante propose de renseigner automatiquement la fiche de la ressource avec les éléments descriptifs de l'événement : 
+Quand on sélectionne une ressource \(ou qu'on en importe une nouvelle\), la fenêtre suivante propose de renseigner automatiquement la fiche de la ressource avec les éléments descriptifs de l'événement : 
 
 ![Fen&#xEA;tre d&apos;aide &#xE0; l&apos;indexation des ressources](../.gitbook/assets/image%20%2844%29.png)
 
 {% hint style="success" %}
-Cette fenêtre propose des choix multiples pour faciliter l'archivage et l'indexation sémantique de la ressource \(voir **En savoir plus /** [**Indexation sémantique dans Weever**](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\)
+Cette fenêtre propose des choix multiples pour faciliter l'archivage et l'indexation sémantique de la ressource \(voir **En savoir plus /** [Indexation sémantique dans Weever](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\)
 {% endhint %}
 
 ### L'importation de ressources
@@ -241,7 +234,7 @@ Lorsque les ressources sont bien importées \(indiqué par le bandeau vert\), vo
 ![S&#xE9;lection des ressources &#xE0; attacher &#xE0; un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2841%29.png)
 
 {% hint style="info" %}
-Même si les ressources sont désélectionnées à ce stade, ces dernières ont bien été importées dans les ressources de Weever \(voir le § **Page Ressource**\).
+Même si les ressources sont désélectionnées à ce stade, ces dernières ont bien été importées dans les ressources de Weever \(voir le chapitre [Page Mes ressource](https://mnemotix.gitbook.io/weever/premiers-pas/naviguer-dans-weever#page-mes-ressources)\).
 {% endhint %}
 
 Le fenêtre de facilitation à l'indexation des ressources apparaît avant l'attachement final à l'événement. C'est très utile dans le cas d'un import important de photos, ces dernières auront par défaut toutes le titre de l'événement auxquelles elles sont rattachées, éventuellement sa description ainsi que les concepts décrivant l'événement.
