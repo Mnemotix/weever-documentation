@@ -16,13 +16,17 @@ Le nom Weever fait référence au livre écrit par Tim Berners-Lee \("[Weaving t
 
 ![](../.gitbook/assets/image%20%2850%29.png)
 
-Weever réalise de façon quasi automatique une **indexation sémantique**, qui consiste, lors de l’analyse de tout élément versé dans l'archive Weever, à rattacher chaque mot à un concept sous-jacent. Le \(ou les\) thésaurus de Koncept est intégré dans Weever pour aider à indexer les ressources \(événements, mémos, personnes, œuvres, projets, images, fichiers...\). 
+Weever réalise de façon quasi automatique une **indexation sémantique**, qui consiste, lors de l’analyse de tout élément versé dans l'archive Weever, à rattacher chaque mot à un concept sous-jacent. Les thésaurus de **Koncept** sont intégrés dans Weever pour aider à indexer les ressources \(événements, mémos, personnes, œuvres, projets, images, fichiers...\). 
 
 ![Int&#xE9;gration des branches du th&#xE9;saurus dans le tagging de concepts de tous les &#xE9;l&#xE9;ments de Weever](../.gitbook/assets/image%20%2830%29.png)
 
-Comme il est construit en respectant les standards du web sémantique, il permet d'aller plus loin qu'un simple tagging de folksonomie, puisque les tags/concepts sont structurés et agencés dans une représentation hiérarchique \(notamment par l'usage de vocabulaires contrôlés basés sur le système [SKOS](http://www.ala.org/alcts/resources/z687/skos)\).
+Comme le thésaurus est construit en respectant les standards du web sémantique, il permet d'aller plus loin qu'un simple tagging de folksonomie, puisque les tags/concepts sont structurés et agencés dans une représentation hiérarchique \(notamment par l'usage de vocabulaires contrôlés basés sur le système [SKOS](http://www.ala.org/alcts/resources/z687/skos)\).
 
 ![](../.gitbook/assets/image%20%281%29.png)
+
+## L'indexation sémantique semi-automatique
+
+
 
 Le petit icône de warning a été placé dans la rubrique Statut pour attirer l'attention sur le fait que la ressource n'a pas été suffisamment documentée \(pas de titre, pas légende, pas de concept associé\). Ce n'est pas obligatoire, cependant, c'est toujours mieux pour exploiter par la suite les données de l’archive.  
 
