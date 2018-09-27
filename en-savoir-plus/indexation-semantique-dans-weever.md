@@ -1,4 +1,4 @@
-# Indexation sémantique dans Weever
+# L'indexation sémantique
 
 ## Principes de base
 

@@ -138,7 +138,7 @@ Pour ajouter un élément enrichi dans un Memo, plusieurs possibilités :
 
 ![Auto-compl&#xE9;tion a l&apos;ajout d&apos;un &#xE9;l&#xE9;ment enrichi \(concept, personnes\)](../.gitbook/assets/image%20%283%29.png)
 
-* soit vous utilisez le menu du Memo : _1\)_ le premier icône est pour citer un concept du/des thésaurus associé à Weever dans votre communauté \(le navigateur de concept s'ouvre, pour plus de détail voir **En savoir plus /** [Indexation sémantique dans Weever](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\), _2\)_ le second icône est pour attacher une ressource \(il ouvre le navigateur de ressources\), _3\)_ le troisième icône est pour citer une personne \(il ouvre le carnet d'adresse lisant tous les acteurs, personnes ou organisations\), _4\)_ le dernier icône \(optionnel\) est pour citer un objet artistique \(une oeuvre ou une manifestation\)
+* soit vous utilisez le menu du Memo : _1\)_ le premier icône est pour citer un concept du/des thésaurus associé à Weever dans votre communauté \(le navigateur de concept s'ouvre, pour plus de détail voir **En savoir plus /** [L'indexation sémantique](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\), _2\)_ le second icône est pour attacher une ressource \(il ouvre le navigateur de ressources\), _3\)_ le troisième icône est pour citer une personne \(il ouvre le carnet d'adresse lisant tous les acteurs, personnes ou organisations\), _4\)_ le dernier icône \(optionnel\) est pour citer un objet artistique \(une oeuvre ou une manifestation\)
 
 {% hint style="info" %}
 L’évocation de personnes ou de concepts dans les mémos permet d’attacher automatiquement ces éléments aux événements du projet. Cet enrichissement sémantique sera exploitable soit pour des visualisations \(des liens entre éléments\), soit pour de la ré-éditorialisation de contenus \(via l'interrogation de l'API Weever\).
@@ -193,7 +193,7 @@ Pour cela, il faut cliquer sur le petit icône à droite dans la barre grise pou
 
 ![](../.gitbook/assets/image%20%2860%29.png)
 
-Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la liste des ressources, pour visualiser les ressources qui ont été taguées avec les concepts du thésaurus \(voir **En savoir plus /** [Indexation sémantique dans Weever](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\) 
+Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la liste des ressources, pour visualiser les ressources qui ont été taguées avec les concepts du thésaurus \(voir **En savoir plus /** [L'indexation sémantique](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\).
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
@@ -212,7 +212,7 @@ Quand on sélectionne une ressource \(ou qu'on en importe une nouvelle\), la fen
 ![Fen&#xEA;tre d&apos;aide &#xE0; l&apos;indexation des ressources](../.gitbook/assets/image%20%2854%29.png)
 
 {% hint style="success" %}
-Cette fenêtre propose des choix multiples pour faciliter l'archivage et l'indexation sémantique de la ressource \(voir **En savoir plus /** [Indexation sémantique dans Weever](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\)
+Cette fenêtre propose des choix multiples pour faciliter l'archivage et l'indexation sémantique de la ressource \(voir **En savoir plus /** [L'indexation sémantique](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\)
 {% endhint %}
 
 ### L'importation de ressources
