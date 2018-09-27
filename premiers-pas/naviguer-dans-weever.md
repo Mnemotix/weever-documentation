@@ -6,7 +6,7 @@ Il y a plusieurs moyens de rechercher des données dans Weever, nous les listons
 
 Le moteur est directement accessible depuis la page d'accueil \(représenté par l'icône Maison dans tout le site devant le fil d'ariane\). Il est possible de rechercher une personne, ou tout mot-clé décrivant un projet, un événement, une ressource ou un concept, et ceci dans toutes les rubriques de Weever à savoir _1\)_ les projets, _2\)_ les ressources, _3\)_ les personnes et _4\)_ les organisations
 
-![Moteur de recherche avec facettes](../.gitbook/assets/image%20%2837%29.png)
+![Moteur de recherche avec facettes](../.gitbook/assets/image%20%2838%29.png)
 
 Les facettes de recherche de projet proposées sont : 
 
@@ -92,7 +92,7 @@ Il est important d'enrichir en liens, contacts, artistes ou concepts la page des
 
 ### Menu d'un événement
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 **Mémos** : Cet onglet permet de voir sous une forme séquentielle les contributions textuelles des membres du projet comme autant de points de vues individuels sur l'événement commenté. On peut aussi les voir directement sur les événements dans la timeline.
 

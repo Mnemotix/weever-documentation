@@ -12,17 +12,17 @@ Tous les éléments versés dans Weever, que ce soit les ressources, les événe
 
 Comme le montre la figure ci-dessous, il est possible de rajouter différentes règles de confidentialité \(en fonction des spécificités de la communauté utilisatrice\). Il est aussi possible de fixer la règle prise par défaut dans toute la plateforme \(est ce c'est ouvert à tous, ou seulement aux membres, ...\).
 
-![Cr&#xE9;ation de r&#xE8;gles de confidentialit&#xE9;](../.gitbook/assets/image%20%2840%29.png)
+![Cr&#xE9;ation de r&#xE8;gles de confidentialit&#xE9;](../.gitbook/assets/image%20%2841%29.png)
 
 ## La notion de groupe
 
 Les groupes sont créés pour associer des droits de lecture, d’édition et d'ajout ou de suppression aux membres ayant un compte utilisateur dans Weever. Pour accéder à la page listant les groupes dans Weever, il faut passer par le menu latéral en haut à gauche et sélectionner **Groupes** dans le sous-menu "Administration" \(visible suivants ses droits\).
 
-![Pages Groupes](../.gitbook/assets/image%20%2851%29.png)
+![Pages Groupes](../.gitbook/assets/image%20%2853%29.png)
 
 Pour créer un nouveau groupe, il faut cliquer sur le Plus \(seuls les administrateurs peuvent créer des nouveaux groupes\). La création d'un nouveau groupe propose de renseigner les champs suivants \(NB cliquer sur "groupe d'administrateur" donne tous les droits au groupe\) : 
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ### Page d'un groupe Projet
 
@@ -45,7 +45,7 @@ Les membres d'une l’équipe projet possèdent les droits pour alimenter le pro
 
 Les groupes de droits sont des groupes **transversaux à tous les projets**, qui permettent d'attribuer des droits, allant de la simple lecture, à la contribution \(droit d’ajout\) jusqu’à l’administration \(droit de suppression\) des projets et de ses éléments. Pour chaque groupe, il est possible d’ajouter des membres, listés dans le carnet d’adresses.
 
-![Exemple d&apos;un groupe avec les droits &#xE9;tendues d&apos;&#xE9;dition](../.gitbook/assets/image%20%2857%29.png)
+![Exemple d&apos;un groupe avec les droits &#xE9;tendues d&apos;&#xE9;dition](../.gitbook/assets/image%20%2860%29.png)
 
 Plusieurs niveaux de droits sont préprogrammés pour proposer une palette d'accès à des groupes de personnes plus ou moins étendue.
 
