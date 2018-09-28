@@ -1,8 +1,8 @@
 # L'éditorialisation
 
-Les applications de [Mnémotix](http://www.mnemotix.com/) comme Weever \(et sa version mobile\) et Koncept reposent sur un socle technologique souple, modulaire et open source : notre middleware sémantique Synaptix \(voir le chapitre **En savoir plus /** Le middleware Synaptix\).
+Les applications de [Mnémotix](http://www.mnemotix.com/) comme Weever \(et sa version mobile\) et Koncept reposent sur un socle technologique souple, modulaire et open source : notre `middleware sémantique` Synaptix \(voir le chapitre **En savoir plus /** [Le middleware Synaptix](https://mnemotix.gitbook.io/weever/en-savoir-plus/le-middleware-synaptix)\).
 
-Weever et Koncept sont à considérer comme des solutions de backoffice destinées à une communauté "d'experts" dans le but de constituer et d'alimenter leur base de connaissances. 
+Weever et Koncept sont à considérer comme des solutions de [`backoffice`](https://mnemotix.gitbook.io/weever/en-savoir-plus/definitions#backoffice) destinées à une communauté "d'experts" dans le but de constituer et d'alimenter leur base de connaissances. 
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
