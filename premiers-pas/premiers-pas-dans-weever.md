@@ -134,7 +134,7 @@ Nous avons introduit dans l’écriture d’un mémo le fait de pouvoir sémanti
 
 Pour ajouter un élément enrichi dans un Memo, plusieurs possibilités : 
 
-* soit vous connaissez le terme, ou le contact, il vous suffit d'utiliser le caractère @ pour mentionner une personne ou le hastag \# pour mentionner un concept du thésaurus, la liste des personnes ou des concepts s'affiche en auto-complétion :  
+* soit vous connaissez le terme, ou le contact, il vous suffit d'utiliser le caractère @ pour mentionner une personne ou le hastag \# pour mentionner un concept du [`thésaurus`](https://mnemotix.gitbook.io/weever/en-savoir-plus/definitions#thesaurus), la liste des personnes ou des concepts s'affiche en auto-complétion :  
 
 ![Auto-compl&#xE9;tion a l&apos;ajout d&apos;un &#xE9;l&#xE9;ment enrichi \(concept, personnes\)](../.gitbook/assets/image%20%283%29.png)
 
@@ -193,7 +193,7 @@ Pour cela, il faut cliquer sur le petit icône à droite dans la barre grise pou
 
 ![](../.gitbook/assets/image%20%2867%29.png)
 
-Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la liste des ressources, pour visualiser les ressources qui ont été taguées avec les concepts du thésaurus \(voir **Guides /** [L'indexation sémantique](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\).
+Si Concepts est sélectionné, la colonne Concepts est alors ajoutée à la liste des ressources, pour visualiser les ressources qui ont été taguées avec les concepts du [`thésaurus`](https://mnemotix.gitbook.io/weever/en-savoir-plus/definitions#thesaurus)\(voir **Guides /** [L'indexation sémantique](https://mnemotix.gitbook.io/weever/en-savoir-plus/indexation-semantique-dans-weever)\).
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 

@@ -18,7 +18,7 @@ Généralement définies comme “données sur les données” ou “information
 
 ## Ontologie
 
-Une ontologie est un ensemble de concepts et de relations modélisant un domaine de la connaissance sans ambiguïté. La représentation d’une ontologie dans un langage formel \(obéissant à une logique stricte\) permet à un ordinateur d’exploiter les connaissances modélisées. L’ontologie est la forme la plus aboutie \(et aussi la plus complexe\) de la modélisation sémantique alors que le thésaurus est un outil plus simple connu depuis longtemps par les professionnels de la documentation \(archivistes, documentalistes, bibliothécaires, ...\).
+Une ontologie est un ensemble de concepts et de relations modélisant un domaine de la connaissance sans ambiguïté. La représentation d’une ontologie dans un langage formel \(obéissant à une logique stricte\) permet à un ordinateur d’exploiter les connaissances modélisées. L’ontologie est la forme la plus aboutie \(et aussi la plus complexe\) de la modélisation sémantique alors que le thésaurus est un outil plus simple connu depuis longtemps par les professionnels de la documentation \(archivistes, documentalistes, bibliothécaires, ...\). Pour aller plus loin voir le diaporama : [Donner du sens à des documents numériques : potentiel des ontologies et du web sémantique](https://f-origin.hypotheses.org/wp-content/blogs.dir/2791/files/2016/03/29160324_aussenac_diaporama.pdf).
 
 ## Thésaurus
 
