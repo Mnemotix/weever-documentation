@@ -10,13 +10,19 @@ Le **Web de données** met en relation d'immenses sources de données et offre a
 
 Le **Web sémantique** favorise quant à lui le déploiement de techniques innovantes permettant aux applications d’utiliser plus efficacement les données. La valeur ajoutée par la sémantique est considérable au regard des services qu’il est possible de construire en les liant aux richesses disponibles sur le web des données ouvertes liées \([Linked Open Data](https://fr.wikipedia.org/wiki/Linked_open_data)\).
 
+![Passer d&apos;un web de documents &#xE0; un web de donn&#xE9;es](https://lh3.googleusercontent.com/QzSwD5keFGIHjJu7gFdkeDsqUhq1AS8kQbhGSvZWVri3MwExkUKdWnjkoIOIblcaoIb4lU4Fa0w1Gibk3zBqK9P7xWn5qoxK39uRPPT6AQFqxn7zoCbKrJkgyTNsgOV8uKe-_3LupL4)
+
+{% hint style="info" %}
+**"Suppose I could program my computer to create a space in which anything could be linked to anything"**  - [Tim Berners-Lee](https://fr.wikipedia.org/wiki/Tim_Berners-Lee) \(fondateur du web - 1990\)
+{% endhint %}
+
 ### Enrichissement des données et indexation sémantique
 
 Le nom Weever fait référence au livre écrit par Tim Berners-Lee \("[Weaving the Web](https://www.w3.org/People/Berners-Lee/Weaving/Overview.html)"\) et à l'action de **tisser les ressources entre elles**. Weever implémente des technologies sémantiques issues de l'ingénierie des connaissances, pour tisser des liens dans des données qui n'en ont pas, ce qui revient à les enrichir considérablement.
 
 ![](../.gitbook/assets/image%20%2854%29.png)
 
-Weever réalise de façon quasi automatique une **indexation sémantique**, qui consiste, lors de l’analyse de tout élément versé dans l'archive Weever, à rattacher chaque mot à un concept sous-jacent. Les thésaurus de **Koncept** sont intégrés dans Weever pour aider à indexer les ressources \(événements, mémos, personnes, œuvres, projets, images, fichiers...\). 
+Weever réalise de façon quasi automatique une **indexation sémantique**, qui consiste, lors de l’analyse de tout élément versé dans l'archive Weever, à rattacher chaque mot à un concept sous-jacent. Les thésaurus de **Koncept** \(notre outil de gestion collaborative de terminologies\) sont intégrés dans Weever pour aider à indexer les ressources \(événements, mémos, personnes, œuvres, projets, images, fichiers...\). 
 
 ![Int&#xE9;gration des branches du th&#xE9;saurus dans le tagging de concepts de tous les &#xE9;l&#xE9;ments de Weever](../.gitbook/assets/image%20%2832%29.png)
 
@@ -24,9 +30,9 @@ Comme le thésaurus est construit en respectant les standards du web sémantique
 
 ![Du nuage de mots &#xE0; la structuration de concepts dans un th&#xE9;saurus](../.gitbook/assets/image%20%2815%29.png)
 
-Dans nos applications Weever et Koncept \(notre outil de gestion collaborative de terminologies\), nous utilisons le format [SKOS](http://www.ala.org/alcts/resources/z687/skos) \(« système simple d'organisation des connaissances »\), recommandé par l'instance normative du Web le [W3C](https://www.w3.org/), pour représenter les thésaurus, les classifications ou d'autres types de vocabulaires contrôlés. "S'appuyant sur le modèle de données RDF, son principal objectif est de permettre la publication facile de vocabulaires structurés pour leur utilisation dans le cadre du Web sémantique" \(source [Wikipédia](https://fr.wikipedia.org/wiki/Simple_Knowledge_Organization_System)\). 
+Dans nos applications Weever et Koncept, nous utilisons le format [SKOS](http://www.ala.org/alcts/resources/z687/skos) \(« système simple d'organisation des connaissances »\), recommandé par l'instance normative du Web le [W3C](https://www.w3.org/), pour représenter les thésaurus, les classifications ou d'autres types de vocabulaires contrôlés. "S'appuyant sur le modèle de données RDF, son principal objectif est de permettre la publication facile de vocabulaires structurés pour leur utilisation dans le cadre du Web sémantique" \(source [Wikipédia](https://fr.wikipedia.org/wiki/Simple_Knowledge_Organization_System)\). 
 
-La figure ci-dessous illustre cette représentation hiérarchique sur le concept "Chat" détaillant les relations génériques \(_broader_\), spécifiques \(_narrower_\) ou reliées \(_related_\) et dont l'illustration forme un graphe :
+La figure ci-dessous illustre cette représentation hiérarchique sur le concept "Chat" détaillant les relations génériques \(_broader_\), spécifiques \(_narrower_\) ou reliées \(_related_\) avec d'autres concepts et dont l'illustration forme un graphe :
 
 ![](../.gitbook/assets/image%20%2857%29.png)
 
