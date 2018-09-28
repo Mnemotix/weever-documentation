@@ -7,9 +7,14 @@
 * [Créer son premier projet](premiers-pas/premiers-pas-dans-weever.md)
 * [Naviguer dans Weever](premiers-pas/naviguer-dans-weever.md)
 
+## Guides
+
+* [La gestion des droits](guides/gestion-des-droits.md)
+* [L'indexation sémantique](guides/indexation-semantique-dans-weever.md)
+* [L'éditorialisation](guides/leditorialisation.md)
+
 ## En savoir plus
 
-* [La gestion des droits](en-savoir-plus/gestion-des-droits.md)
-* [L'indexation sémantique](en-savoir-plus/indexation-semantique-dans-weever.md)
-* [L'éditorialisation](en-savoir-plus/leditorialisation.md)
+* [Définitions](en-savoir-plus/definitions.md)
+* [Le middleware Synaptix](en-savoir-plus/le-middleware-synaptix.md)
 
