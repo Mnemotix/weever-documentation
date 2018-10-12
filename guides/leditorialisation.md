@@ -4,7 +4,7 @@ Les applications de [Mnémotix](http://www.mnemotix.com/) comme Weever \(et sa v
 
 Weever et Koncept sont  des solutions de documentation destinées à une communauté "d'experts" dans le but de constituer, d'alimenter et d'enrichir sémantiquement leur base de connaissances. 
 
-![De la donn&#xE9;e enrichie &#xE0; la donn&#xE9;e publi&#xE9;e](../.gitbook/assets/image%20%2828%29.png)
+![De la donn&#xE9;e enrichie &#xE0; la donn&#xE9;e publi&#xE9;e](../.gitbook/assets/image%20%2829%29.png)
 
 Pour valoriser les données de cette base de connaissance auprès de divers publics, nous proposons plusieurs solutions **d'éditorialisation** des données : 
 
@@ -15,5 +15,5 @@ Pour valoriser les données de cette base de connaissance auprès de divers publ
 
 Nous présentons ci-dessous un exemple d'éditorialisation exportant des données de Weever vers un site web public, celui de la Fondation [Lafayette Anticipations](https://lafayetteanticipations.com/fr). Les données du profil de l'artiste servent à alimenter sa fiche de présentation sur le site Drupal public.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 

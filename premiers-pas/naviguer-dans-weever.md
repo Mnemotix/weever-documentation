@@ -6,7 +6,7 @@ Il y a plusieurs moyens de rechercher des données dans Weever, nous les listons
 
 Le moteur est directement accessible depuis la page d'accueil \(représenté par l'icône Maison dans tout le site devant le fil d'ariane\). Il est possible de rechercher une personne, ou tout mot-clé décrivant un projet, un événement, une ressource ou un concept, et ceci dans toutes les rubriques de Weever à savoir _1\)_ les projets, _2\)_ les ressources, _3\)_ les personnes et _4\)_ les organisations
 
-![Moteur de recherche avec facettes](../.gitbook/assets/image%20%2841%29.png)
+![Moteur de recherche avec facettes](../.gitbook/assets/image%20%2843%29.png)
 
 Les facettes de recherche de projet proposées sont : 
 
@@ -22,13 +22,13 @@ Les facettes changent en fonction du type d'éléments \(projet, ressources, per
 
 Il est aussi possible d'utiliser les facettes sous la colonne Filtres pour réduire le champ de recherche, en cochant simplement les cases devant les facettes. Il est aussi possible de combiner la recherche full text et les facettes : 
 
-![S&#xE9;lection d&apos;un &#xE9;l&#xE9;ment dans une facette](../.gitbook/assets/image%20%2817%29.png)
+![S&#xE9;lection d&apos;un &#xE9;l&#xE9;ment dans une facette](../.gitbook/assets/image%20%2818%29.png)
 
 ## A partir de Mon Espace
 
 Le menu général de Weever se trouve en haut à gauche de l'écran : 
 
-![Menu G&#xE9;n&#xE9;ral](../.gitbook/assets/image%20%2825%29.png)
+![Menu G&#xE9;n&#xE9;ral](../.gitbook/assets/image%20%2826%29.png)
 
 Il permet d'accéder à différents endroits de l'application : 
 
@@ -42,7 +42,7 @@ Il permet d'accéder à différents endroits de l'application :
 
 La page Mes ressources se présente comme une page de recherche par facette. Il est possible d'utiliser les facettes pour réduire la liste des ressources, ou bien d'utiliser le moteur de recherche full text.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 Pour accéder au visualisateur de ressources, il suffit de cliquer sur une d'entre elles dans la liste.
 
@@ -52,7 +52,7 @@ Cet espace est destiné à décrire les contacts de l'écosystème de la communa
 
 Il se présente aussi comme une page de recherche par facette, où il est possible de sélectionner les personnes en fonction des métadonnées de leur profil. Le carnet distingue la liste des personnes \(membres de la plateforme ou personnes seulement citées\) et la liste des organisations impliquées dans les projets.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="info" %}
 Il est important de relier les personnes avec les organisations dont ils font parties. L'ajout d'une appartenance à une organisation s'effectue dans le profil de la personne.
@@ -70,7 +70,7 @@ Cette fonctionnalité spécifique à Lafayette Anticipations est directement exp
 
 ### Menu d'un projet
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 **Ligne de temps** :  Par défaut, la timeline du projet est affichée
 
@@ -84,7 +84,7 @@ Cette fonctionnalité spécifique à Lafayette Anticipations est directement exp
 
 La page Paramètres d'un projet contient plusieurs espaces expliqués ci-dessous : 
 
-![Page Param&#xE8;tres d&apos;un projet](../.gitbook/assets/image%20%2814%29.png)
+![Page Param&#xE8;tres d&apos;un projet](../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="info" %}
 Il est important d'enrichir en liens, contacts, artistes ou concepts la page descriptive d'un projet car Weever **lie sémantiquement** tous les éléments archivés afin de proposer des fonctionnalités de visualisation et d'analyse avancées des données
@@ -92,7 +92,7 @@ Il est important d'enrichir en liens, contacts, artistes ou concepts la page des
 
 ### Menu d'un événement
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 **Mémos** : Cet onglet permet de voir sous une forme séquentielle les contributions textuelles des membres du projet comme autant de points de vues individuels sur l'événement commenté. On peut aussi les voir directement sur les événements dans la timeline.
 
@@ -102,7 +102,7 @@ Il est important d'enrichir en liens, contacts, artistes ou concepts la page des
 
 **Paramètres** : Espace reprenant les éléments descriptifs de l'événement comme son titre, sa description, ses dates, les acteurs impliqués, les concepts sélectionnés, les règles de confidentialité...
 
-![Page Param&#xE8;tres d&apos;un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2823%29.png)
+![Page Param&#xE8;tres d&apos;un &#xE9;v&#xE9;nement](../.gitbook/assets/image%20%2824%29.png)
 
 
 
